@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:validationmodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|d:\\coolyeah\\semester 4\\praktikum\\posttest_vis\\pertemuan3\\datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A2D480B2-F8F8-0E64-B4D2-07BA24A21098}|pertemuan3.vbproj|solutionrelative:datamodule.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:58:27.802Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Form2.Designer.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.Designer.vb",
+              "RelativeToolTip": "Form2.Designer.vb",
+              "ViewState": "AgIAADEAAAAAAAAAAAArwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:56:42.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "Form1.Designer.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.Designer.vb",
+              "RelativeToolTip": "Form1.Designer.vb",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwIEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:53:49.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:49:21.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:28:25.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:24:09.235Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationModule.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\ValidationModule.vb",
+              "RelativeDocumentMoniker": "ValidationModule.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\ValidationModule.vb",
+              "RelativeToolTip": "ValidationModule.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:48:56.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataModule.vb",
+              "DocumentMoniker": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\DataModule.vb",
+              "RelativeDocumentMoniker": "DataModule.vb",
+              "ToolTip": "D:\\coolyeah\\semester 4\\praktikum\\POSTTEST_VIS\\pertemuan3\\DataModule.vb",
+              "RelativeToolTip": "DataModule.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-09T03:49:09.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
