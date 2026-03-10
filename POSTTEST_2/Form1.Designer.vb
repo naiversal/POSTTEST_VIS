@@ -167,7 +167,7 @@ Partial Class Form1
         Label1.AutoSize = True
         Label1.Font = New Font("Harlow Solid Italic", 28F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
         Label1.ForeColor = SystemColors.HotTrack
-        Label1.Location = New Point(254, 34)
+        Label1.Location = New Point(255, 34)
         Label1.Name = "Label1"
         Label1.Size = New Size(386, 71)
         Label1.TabIndex = 9
